@@ -1,5 +1,5 @@
 # Todos web application
-### A todo web application, written in html, css and js.
+### A todo responsive web application,is written in html, css, bootstrap4 and js.
  A user may add to to-do task list, view all the tasks they have to complete,if the task is completed, then just click on the checkbox after clicking it will strikethrough text and the completed task can be deleted by clicking delete icon.  After modifying the list each time you must save the list by "save button".
 ## UI Of ToDo App
 ![Screenshot from 2021-06-25 16-03-33](https://user-images.githubusercontent.com/77674813/123416368-16f6fb00-d5d4-11eb-9f54-1f5366cfcf12.png)
